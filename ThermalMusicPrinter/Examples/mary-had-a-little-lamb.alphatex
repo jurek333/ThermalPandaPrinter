@@ -1,0 +1,9 @@
+\title "Mary Had a Little Lamb"
+\tempo 100
+\track ("Guitar" "Gtr.") { instrument distortionguitar }
+\tuning (E4 B3 G3 D3 A2 E2)
+\ts (4 4)
+:4 0.1.4 3.2.4 1.2.4 3.2.4 |
+0.1.4 0.1.4 0.1.2 |
+3.2.4 3.2.4 3.2.2 |
+0.1.4 3.1.4 3.1.2
